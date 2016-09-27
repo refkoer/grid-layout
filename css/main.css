@@ -26,10 +26,10 @@ body {
   width: 100%;
 }
 
-@media only screen and (min-width: 25em) {
+@media only screen and (min-width: 18em) {
 
   .resize {
-    width: 95.555%;
+    width: 90%;
   }
 
 }
